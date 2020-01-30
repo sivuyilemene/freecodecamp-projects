@@ -1,0 +1,41 @@
+html{
+  font-size: 20px;
+  
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+body {
+  background-image:       url(
+    http://images.unsplash.com/photo-1541816139614-b1c0b6a13f5b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9);
+  color: white;
+}
+
+#main {
+  text-align: center;
+}
+
+#tribute-link{
+  color: red;
+}
+
+#tribute-link:hover{
+  color: orange;
+}
+
+#tribute-info{
+  font-size: 18px;
+}
+
+ul{
+  margin: auto;
+  display: block;
+  height: auto;
+  text-align: left;
+  
+}
